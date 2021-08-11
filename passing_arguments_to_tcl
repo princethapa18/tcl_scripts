@@ -1,0 +1,10 @@
+http://www.mathcs.emory.edu/~cheung/Courses/558/Syllabus/A2-Tcl/Tcl-8-misc.html
+
+Executing a tcl command in terminal
+tclsh args.tcl
+
+tcl command with arguments
+tclsh args.tcl arg1 arg2 ... 
+
+see args.tcl how to access arguments 
+
