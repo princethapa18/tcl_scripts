@@ -1,2 +1,4 @@
 # tcl_scripts
-TCL script to edit/extract some values from Pamcrash input (*.pc) files
+TCL scripts 
+chow.tcl   # to change ownership of file or directory (recursively)
+modifyPartCard.tcl # to edit/extract some values from Pamcrash input (*.pc) files
